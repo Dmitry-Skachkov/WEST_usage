@@ -4,6 +4,8 @@
 
 WEST code can be installed inside Quantum Espresso (QE) directory.
 
+## Installation on DARWIN cluster of University of Delaware
+
 Load necessary modules:
 
 > vpkg_require openmpi/4.1.5:intel-2020
