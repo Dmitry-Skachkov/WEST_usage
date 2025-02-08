@@ -1,4 +1,5 @@
 # WEST_usage
+[WEST](https://west-code.org) (Without Empty STates) is a software for electronic structure calculations within many-body perturbation theory.
 WEST code can be installed inside Quantum Espresso (QE) directory.
 
 Load necessary modules:
@@ -20,7 +21,7 @@ Configure the system
 Make installation
 > make all
 
-Check that the executables are place in bin directory
+Check that the executables are placed in bin directory
 
 ```
 wstat.x
