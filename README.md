@@ -1,5 +1,7 @@
-# WEST_usage
+# WEST installation and examples
+
 [WEST](https://west-code.org) (Without Empty STates) is a software for electronic structure calculations within many-body perturbation theory.
+
 WEST code can be installed inside Quantum Espresso (QE) directory.
 
 Load necessary modules:
